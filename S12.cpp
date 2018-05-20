@@ -1,3 +1,7 @@
+/*
+By Amir Arslan Haghrah
+2015
+*/
 #include <iostream>
 #include <fstream>
 #include <iomanip>
