@@ -1,4 +1,4 @@
-# STHTGS
+# SHGS
 Short Term Hydro Thermal Generation Scheduling
 
 Short-term hydro–thermal generation scheduling (SHGS) is an essential optimisation problem in operation of the competitive power systems. Short-term hydro–thermal scheduling involves the hour-by-hour scheduling of all hydro and thermal generations to meet the load demands considering several hydraulic and thermal power plants constraints over a known horizon of time. As the source for hydro power plants is a natural water source with negligible operation cost, the objective is to minimise the total fuel cost of thermal plants preserving diverse constraints. Hydraulic and thermal constraints may consist of water balance, power balance, reservoir capacity limits, water release limits and generation limits. Besides complex hydraulic coupling, non-smooth effects of thermal plants and transmission losses make this problem a non-linear and non-convex problem. Therefore SHGS is a dynamic, large scale, constrained and complicated problem [1–3].
