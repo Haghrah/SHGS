@@ -693,7 +693,7 @@ int main()
 		if(i%1000==0)
 		{
 			cin>>j;
-			if(j=0)
+			if(j==0)
 				break;
 		}
 		*/
